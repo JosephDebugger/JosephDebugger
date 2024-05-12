@@ -18,26 +18,4 @@
 
 🌟 Let's connect and collaborate on exciting ventures that push the boundaries of technology and creativity!
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border: 0";>
-      <img width="400" src="https://i.imgur.com/bXxIgrd.png" />
-    </td>
-    <td style="border: 0";>
-   
-      <h3>Other places you can find me</h3>
-      <ul>
-        
-        <li>
-          📬 <a href=mailto:josephdias012@gmail.com>Contact-me on email</a>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JosephDebugger&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JosephDebugger&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JosephDebugger&theme=nord_dark) |
-| :-: | :-: | :-: |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosephDebugger&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=JosephDebugger&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
-| :-: | :-: |
